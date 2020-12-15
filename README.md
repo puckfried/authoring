@@ -4,7 +4,7 @@
 
 | Done/Open    | Time | What           |
 |--------------|------|----------------|
-|   [x]        | 5Min | external Link  |
+|   [x] ?      | 5Min | external Link  |
 |   [x]        |      | Images         |
 |   [x]        |      | Emojis         |
 |   []         |      | searching more |
