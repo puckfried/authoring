@@ -5,7 +5,8 @@
 - Images
 - Emojis
 
-Link to https://help.github.com/en
-Link to image folder
+[Link to Github help] (https://help.github.com/en "GitHub Help Link")
+[Link to my image folder] (https://github.com/puckfried/authoring/tree/main/images "Link to image folder")
 an image from image folder
-emoji
+![alt text](https://github.com/puckfried/authoring/blob/main/images/1.jpeg "Bild 1")
+
