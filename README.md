@@ -1,9 +1,9 @@
 # Github flavoured markdown
 
 ### List of Stuff:
-- external Link
-- Images
-- Emojis
+- [x] external Link
+- [x] Images
+- [x] Emojis
   
 ### Links
 
