@@ -4,7 +4,7 @@
 - [x] external Link
 - [x] Images
 - [x] Emojis
-- [] searching mor stuff
+- [x] searching mor stuff
  
 ### Links
 
