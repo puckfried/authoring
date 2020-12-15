@@ -1,10 +1,13 @@
 # Github flavoured markdown
 
 ### List of Stuff:
-- [x] external Link
+
+| Done/Open    | Time | What      |
+|--------------|------|-----------|
+| [x]          | 5Min  external Link|
 - [x] Images
 - [x] Emojis
-- [x] searching mor stuff
+- [] searching more stuff
  
 ### Links
 
