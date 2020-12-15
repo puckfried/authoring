@@ -5,7 +5,7 @@
 | Done/Open    | Time | What           |
 |--------------|------|----------------|
 | <ul><li>[x] </li></ul>   | 5Min | external Link  |
-|   [x]        |      | Images         |
+|   &#9744;    |      | Images         |
 |   [x]        |      | Emojis         |
 |   []         |      | searching more |
  
