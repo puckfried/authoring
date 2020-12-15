@@ -8,7 +8,7 @@
 |   &#9745;    |      | Images         |
 |   &#9745;    |      | Emojis         |
 |   &#9744;    |      | searching more |
- 
+| [x]          |      | trying boxes   |
  
 ### Links
 
